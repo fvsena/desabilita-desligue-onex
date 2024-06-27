@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TP_Automation.AvayaOnex.DesabilitaDesligue/bin
+/TP_Automation.AvayaOnex.DesabilitaDesligue/obj
